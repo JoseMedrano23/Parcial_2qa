@@ -1,3 +1,4 @@
+/**@JoseMartinez**/
 const Calculadora = require('./calculadora');
 
 class InterfazHistorial {
