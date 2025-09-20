@@ -1,3 +1,4 @@
+/**@JoseMartinez**/
 class Calculadora {
     constructor() {
         this.resultado = 0;
