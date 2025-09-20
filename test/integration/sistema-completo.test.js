@@ -1,7 +1,7 @@
 /**Afonso */
-const InterfazOperacionesBasicas = require('../../src/interfaz1');
-const InterfazHistorial = require('../../src/interfaz2');
-const InterfazValidacionFormateo = require('../../src/interfaz3');
+const InterfazOperacionesBasicas = require('../../src/interfaces/interfaz1');
+const InterfazHistorial = require('../../src/interfaces/interfaz2');
+const InterfazValidacionFormateo = require('../../src/interfaces/interfaz3');
 
 describe('Integración: Sistema Completo de Calculadora', () => {
     let interfaz1, interfaz2, interfaz3;
