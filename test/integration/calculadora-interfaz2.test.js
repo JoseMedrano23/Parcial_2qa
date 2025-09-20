@@ -1,5 +1,5 @@
 /**Alfonso */
-const InterfazHistorial = require('../../src/interfaz2');
+const InterfazHistorial = require('../../src/interfaces/interfaz2');
 
 describe('Integración: Calculadora con InterfazHistorial', () => {
     let interfazHistorial;

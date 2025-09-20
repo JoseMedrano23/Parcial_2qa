@@ -1,5 +1,5 @@
 /**Alfonso */
-const InterfazOperacionesBasicas = require('../../src/interfaz1');
+const InterfazOperacionesBasicas = require('../../src/interfaces/interfaz1');
 const Calculadora = require('../../src/calculadora');
 
 describe('Integración: Calculadora con InterfazOperacionesBasicas', () => {
